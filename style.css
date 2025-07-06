@@ -1,0 +1,23 @@
+body {
+    background-color: #f4f6f8;
+    font-family: "Segoe UI", sans-serif;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+input.form-control {
+    border-radius: 10px;
+}
+
+.btn {
+    border-radius: 8px;
+}
+
+.list-group-item {
+    border-radius: 8px;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
